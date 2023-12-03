@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1fcFqRX4vWYU6K5scD9pWb3D4t4INFMIAY4IfHOWisM=",
+  "Source": "HttpVirtualStatus",
+  "BasePath": "_content/HttpVirtualStatus",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
